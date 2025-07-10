@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/g7L4s5s.png" alt="Bot Logo" width="150"/>
+  <img src="[https://i.imgur.com/g7L4s5s.png](https://i.imgur.com/hvcsrm2.gif)" alt="Bot Logo" width="150"/>
 
   <h1 align="center">Gemini AI Coding Bot</h1>
   
