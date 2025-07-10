@@ -31,7 +31,7 @@ This project started from a frustration familiar to many developers: how often d
 This bot is the answer. It began as a personal tool to bridge the gap between the moment of inspiration and the moment of creation. Today, it's an open-source project for every student, hobbyist, and professional who believes the best time to code an idea is the moment it's born. It's a tool to turn "I'll do it later" into "I just got it done."
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_DIRECT_GIF_LINK_HERE.gif" alt="Bot Demo GIF" width="300"/>
+  <img src="https://i.imgur.com/hvcsrm2.gif" alt="Bot Demo GIF" width="300"/>
 </p>
 
 #### ✨ Built With
@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 هذا البوت هو الجواب. لقد بدأ كأداة شخصية لسد الفجوة بين لحظة الإلهام ولحظة الخلق. واليوم، هو مشروع مفتوح المصدر لكل طالب، وهاوٍ، ومحترف يؤمن بأن أفضل وقت لبرمجة فكرة هو لحظة ولادتها.
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_DIRECT_GIF_LINK_HERE.gif" alt="Bot Demo GIF" width="300"/>
+  <img src="https://i.imgur.com/hvcsrm2.gif" alt="Bot Demo GIF" width="300"/>
 </p>
 
 #### ✨ التقنيات المستخدمة
