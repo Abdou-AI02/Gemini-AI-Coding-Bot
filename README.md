@@ -2,14 +2,14 @@
 
   <img src="https://i.imgur.com/g7L4s5s.png" alt="Bot Logo" width="150"/>
 
-  <h1 align="center">بوت المبرمج Gemini</h1>
-
+  <h1 align="center">Gemini AI Coding Bot</h1>
+  
   <p align="center">
-    حوّل أفكارك إلى كود مباشرة من تيليغرام. بوت برمجي متعدد اللغات، مدعوم بقوة Google Gemini.
+    Turn your ideas into code, directly from Telegram. A multi-language coding bot, powered by Google Gemini.
     <br />
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues">الإبلاغ عن خطأ</a>
+    <a href="https://github.com/Abdou-AI02/Gemini-AI-Coding-Bot/issues">Report a Bug</a>
     ·
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues">طلب ميزة جديدة</a>
+    <a href="https://github.com/Abdou-AI02/Gemini-AI-Coding-Bot/issues">Request a Feature</a>
   </p>
 </div>
 
@@ -24,32 +24,14 @@
 
 ---
 
-<details>
-<summary>🇬🇧 Click here for the English Version</summary>
-
-<div align="center">
-
-  <h1 align="center">Gemini AI Coding Bot</h1>
-  
-  <p align="center">
-    Turn your ideas into code, directly from Telegram. A multi-language coding bot, powered by Google Gemini.
-    <br />
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues">Report a Bug</a>
-    ·
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues">Request a Feature</a>
-  </p>
-</div>
-
 ### 🤖 About The Project: From Idea to Reality
 
 This project started from a frustration familiar to many developers: how often does a great idea for a script or a useful tool strike you when you're away from your computer? By the time you get back, the spark of inspiration has faded.
 
-The barrier wasn't a lack of skill, but the lack of immediate access to a coding environment. The thought of having to open a laptop, launch an editor, and try to recall the details was often enough to let the idea die. This led to the question: "What if I could remove all that friction? What if I could simply describe my idea to an assistant in my pocket and get the code instantly?"
-
 This bot is the answer. It began as a personal tool to bridge the gap between the moment of inspiration and the moment of creation. Today, it's an open-source project for every student, hobbyist, and professional who believes the best time to code an idea is the moment it's born. It's a tool to turn "I'll do it later" into "I just got it done."
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_SCREENSHOT_URL.gif" alt="Bot Demo GIF" width="300"/>
+  <img src="https://i.imgur.com/YOUR_DIRECT_GIF_LINK_HERE.gif" alt="Bot Demo GIF" width="300"/>
 </p>
 
 #### ✨ Built With
@@ -78,11 +60,11 @@ Ensure you have the following installed:
 2.  **Get a Telegram Bot Token** from [@BotFather](https://t.me/BotFather).
 3.  **Clone the repo:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+    git clone [https://github.com/Abdou-AI02/Gemini-AI-Coding-Bot.git](https://github.com/Abdou-AI02/Gemini-AI-Coding-Bot.git)
     ```
 4.  **Navigate to the project directory:**
     ```sh
-    cd YOUR_REPOSITORY
+    cd Gemini-AI-Coding-Bot
     ```
 5.  **Install required packages:**
     ```sh
@@ -105,6 +87,16 @@ After running the bot, you can interact with it using the following commands:
 
 ---
 
+### 🔐 Privacy Policy
+
+Your privacy is critically important.
+
+* **API Keys**: Your Gemini API key is stored only within your personal chat session with the bot (`user_data`). It is **never** logged, stored on any server, or seen by the developer. It is only used to make requests to the Gemini API on your behalf.
+* **Conversation History**: Your project's conversation history is also stored within your session to maintain context. This data is not collected or analyzed.
+* **Data Control**: Using `/new_project` clears your conversation history. Restarting the bot or clearing the chat will also clear all session data, including your API key.
+
+---
+
 ### 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -123,9 +115,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-</details>
-
 ---
+
+<details>
+<summary>🇦🇪 اضغط هنا للنسخة العربية</summary>
 
 <div dir="rtl" align="right">
 
@@ -133,12 +126,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 بدأ هذا المشروع من إحباط مألوف لدى الكثير من المطورين: كم مرة تأتيك فكرة رائعة لسكريبت صغير أو أداة مفيدة وأنت بعيد عن حاسوبك، وعندما تعود، تكون شرارة الإلهام قد خفتت؟
 
-لم يكن العائق هو نقص المهارة، بل صعوبة الوصول الفوري لبيئة برمجة. فكرة أن عليك فتح الحاسوب، تشغيل المحرر، ثم محاولة تذكر تفاصيل الفكرة كانت كافية في كثير من الأحيان لتموت الفكرة قبل أن تولد. من هنا جاء السؤال: "ماذا لو أمكنني إزالة كل هذا العناء؟ ماذا لو استطعت ببساطة أن أصف فكرتي لمساعد في جيبي، وأحصل على الكود فوراً؟"
-
-هذا البوت هو الجواب. لقد بدأ كأداة شخصية لسد الفجوة بين لحظة الإلهام ولحظة الخلق. واليوم، هو مشروع مفتوح المصدر لكل طالب، وهاوٍ، ومحترف يؤمن بأن أفضل وقت لبرمجة فكرة هو لحظة ولادتها. إنه أداة لتحويل "سأفعلها لاحقاً" إلى "لقد أنجزتها للتو".
+هذا البوت هو الجواب. لقد بدأ كأداة شخصية لسد الفجوة بين لحظة الإلهام ولحظة الخلق. واليوم، هو مشروع مفتوح المصدر لكل طالب، وهاوٍ، ومحترف يؤمن بأن أفضل وقت لبرمجة فكرة هو لحظة ولادتها.
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_SCREENSHOT_URL.gif" alt="Bot Demo GIF" width="300"/>
+  <img src="https://i.imgur.com/YOUR_DIRECT_GIF_LINK_HERE.gif" alt="Bot Demo GIF" width="300"/>
 </p>
 
 #### ✨ التقنيات المستخدمة
@@ -155,30 +146,24 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 للحصول على نسخة محلية وتشغيلها، اتبع هذه الخطوات البسيطة.
 
-#### المتطلبات الأساسية
-
-تأكد من أن لديك الأدوات التالية مثبتة:
-* Python 3.8+
-* pip (مدير حزم بايثون)
-
 #### طريقة التثبيت
 
 1.  **احصل على مفتاح Gemini API مجاني** من [Google AI Studio](https://aistudio.google.com/).
 2.  **احصل على توكن بوت تيليغرام** من [@BotFather](https://t.me/BotFather).
 3.  **انسخ هذا المستودع (Clone):**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+    git clone [https://github.com/Abdou-AI02/Gemini-AI-Coding-Bot.git](https://github.com/Abdou-AI02/Gemini-AI-Coding-Bot.git)
     ```
 4.  **انتقل إلى مجلد المشروع:**
     ```sh
-    cd YOUR_REPOSITORY
+    cd Gemini-AI-Coding-Bot
     ```
 5.  **ثبّت المكتبات اللازمة:**
     ```sh
     pip install -r requirements.txt
     ```
-6.  **عدّل ملف `coding_bot.py`:**
-    * ضع توكن تيليغرام الخاص بك في متغير `TELEGRAM_BOT_TOKEN`.
+6.  **إعداد بيئة العمل:**
+    * في ملف `coding_bot.py`، استبدل `'YOUR_TELEGRAM_BOT_TOKEN_HERE'` بالتوكن الخاص بك.
 
 ---
 
@@ -191,6 +176,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * `/code <description>` - بدء مشروع برمجي جديد.
 * `/language` - تغيير لغة واجهة البوت.
 * `/new_project` - بدء مشروع جديد ومسح الذاكرة.
+
+---
+
+### 🔐 سياسة الخصوصية
+
+خصوصيتك مهمة للغاية.
+
+* **مفاتيح API**: يتم تخزين مفتاح Gemini API الخاص بك فقط داخل جلسة محادثتك الشخصية مع البوت (`user_data`). **لا يتم أبداً** تسجيله، أو تخزينه على أي خادم، أو رؤيته من قبل المطور. يتم استخدامه فقط لإجراء طلبات إلى Gemini API نيابة عنك.
+* **سجل المحادثة**: يتم أيضاً تخزين سجل محادثة مشروعك داخل جلستك للحفاظ على السياق. لا يتم جمع هذه البيانات أو تحليلها.
+* **التحكم في البيانات**: استخدام أمر `/new_project` يمسح سجل محادثتك. إعادة تشغيل البوت أو مسح المحادثة سيؤدي أيضاً إلى مسح جميع بيانات الجلسة، بما في ذلك مفتاح API الخاص بك.
 
 ---
 
@@ -213,6 +208,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 موزع تحت رخصة MIT. انظر `LICENSE` للمزيد من المعلومات.
 
 </div>
+
+</details>
 
 <!-- تعريفات روابط الشارات -->
 [Python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
